@@ -9,10 +9,7 @@
     <?php
          $a = "<h1>something is on</h1>";
         
-         
-
-
-         
+     
     ?>
 </body>
 </html>
